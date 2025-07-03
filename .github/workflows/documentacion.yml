@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: Saludar
-        uses: ingvillajimenez/cf-bootcamp-github-actions-javascript-action@v1.0
+        uses: ingvillajimenez/cf-bootcamp-github-actions-javascript-action@v1.1
         with:
           who-to-greet: Juan
     
