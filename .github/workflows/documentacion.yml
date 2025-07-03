@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: Saludar
-        uses: actions/hello-world-action-by-juan-villa@v1.0
+        uses: ingvillajimenez/hello-world-action-by-juan-villa@v1.0
         with:
           who-to-greet: Juan
     
