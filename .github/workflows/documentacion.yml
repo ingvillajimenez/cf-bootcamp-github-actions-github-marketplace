@@ -1,7 +1,6 @@
 name: Compila y Genera PDF
 
-on:
-  push:
+on: workflow_dispatch
 
 jobs:
   compila:
